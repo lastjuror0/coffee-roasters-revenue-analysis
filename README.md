@@ -11,7 +11,7 @@ Analyzes transaction-level sales data for Afficionado Coffee Roasters to uncover
 │   └── product_analysis.ipynb         # Data cleaning, normalization, EDA
 ├── dashboard/
 │   └── app.py                         # Streamlit product performance dashboard
-├── Coffee_Roasters_Project.docx       # Full write-up (methodology, results, limitations)
+├── Coffee_Roasters_Project.pdf        # Full write-up (methodology, results, limitations)
 └── README.md
 ```
 
