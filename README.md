@@ -23,8 +23,6 @@ cd coffee-roasters-analysis
 pip install -r requirements.txt
 ```
 
-> **Note:** The dataset used in this project is not included in this repository due to data sharing restrictions. The notebook and dashboard code are provided for reference — to run them end-to-end, you would need to supply your own dataset matching the column structure described in the Data Description section of the [project write-up](./Coffee_Roasters_Project.pdf)
-
 ## Usage
 
 ```bash
