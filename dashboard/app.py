@@ -10,7 +10,7 @@ from matplotlib.colors import Normalize
 
 st.set_page_config(layout="wide")
 
-df = pd.read_csv('Afficionado Coffee Roasters.csv')
+df = pd.read_csv('data/Afficionado Coffee Roasters.csv')
 df['revenue'] = df['transaction_qty'] * df['unit_price']
 
 ### Filters
